@@ -1,5 +1,7 @@
 #network_address_functions
 
+[![Build Status](https://travis-ci.org/bobtfish/puppet-network_address_functions.png)](https://travis-ci.org/bobtfish/puppet-better_file)
+
 ####Table of Contents
 
 1. [Overview](#overview)
